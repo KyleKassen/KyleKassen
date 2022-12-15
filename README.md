@@ -28,7 +28,8 @@
 <summary>4irbnb: an Airbnb clone</summary>
 <br>
 
-[![4irbnb](https://i.imgur.com/6j03hr0.png)](https://first-app-kk.herokuapp.com/)
+<!-- [![4irbnb](https://i.imgur.com/6j03hr0.png)](https://first-app-kk.herokuapp.com/) -->
+[![4irbnb](https://user-images.githubusercontent.com/85040622/207957889-ffb7acb3-0152-490a-97de-4736dea07623.png)](https://first-app-kk.herokuapp.com/)
 
 </details>
 
