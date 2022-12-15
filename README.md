@@ -7,7 +7,9 @@
 ## 🛠️ Languages and Technologies
 
 <div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cpp,matlab,swift,react,redux,postgres,sqlite,express,flask,git,heroku,docker,wordpress)](https://skillicons.dev)
+  
 </div>
 
 ## 💼 Recent Projects
@@ -37,20 +39,26 @@
 ## ✉ Contact Me
 
 <div align="center">
+  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyle.kassen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-kassen/)
+  
 </div>
 
 
 ## 📈 Github Stats
 
 <div align="center">
+  
 [![Kyle's Github Stats Dark](https://github-readme-stats.vercel.app/api?username=KyleKassen&show_icons=true&theme=dark&count_private=true&locale=en)](https://github.com/KyleKassen)
+  
 </div>
 <!-- [![Kyle's Github Stats Dark](https://github-readme-stats.vercel.app/api?username=KyleKassen&show_icons=true&theme=dark#gh-dark-mode-only&locale=en)](https://github.com/KyleKassen#gh-dark-mode-only)
 [![Kyle's Github Stats Light](https://github-readme-stats.vercel.app/api?username=KyleKassen&show_icons=true&theme=default#gh-light-mode-only&locale=en)](https://github.com/KyleKassen#gh-light-mode-only) -->
 <div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=KyleKassen&theme=dark)](https://git.io/streak-stats)
+  
 </div>
 
 <!--
