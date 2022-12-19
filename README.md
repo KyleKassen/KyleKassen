@@ -20,7 +20,7 @@
 <summary>Congo: an Amazon clone</summary>
 <br>
 
-[![Congo](https://user-images.githubusercontent.com/85040622/207742489-90a5cf51-3eb5-4f77-8cab-f9c9e894bcf7.gif))](https://congo-site.herokuapp.com/)
+[![Congo](https://user-images.githubusercontent.com/85040622/207742489-90a5cf51-3eb5-4f77-8cab-f9c9e894bcf7.gif)](https://congo-site.herokuapp.com/)
 
 </details>
 
